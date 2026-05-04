@@ -1,0 +1,23 @@
+{
+  "name": "The Mint Box Studio",
+  "domains": ["crochet.hk"],
+  "default_locale": "en",
+  "locales": ["en"],
+  "focus": "Promotional site for Annie Wong — chunky-yarn crochet, knit installations, and small classes",
+  "discipline": "Textile / installation art",
+  "based_in": "Hong Kong",
+  "primary_links": {
+    "main_site": "https://www.themintboxstudio.com",
+    "book_workshops": "https://www.themintboxstudio.com/book-online",
+    "shop": "https://www.themintboxstudio.com/shop",
+    "contact": "https://www.themintboxstudio.com/contact",
+    "instagram": "https://www.instagram.com/themintboxstudio/",
+    "facebook": "https://www.facebook.com/themintboxstudio/"
+  },
+  "selected_clients": [
+    "Loro Piana", "Ralph Lauren", "Adidas", "HSBC",
+    "IFC Mall", "Laforet", "ISF Mall (Chongqing)",
+    "I.T", "Joyce", "J Life Foundation", "Henderson Club"
+  ],
+  "notes": "Imagery sourced from themintboxstudio.com (about page slideshow + showcase). Six showcase images were CDN-blocked at static.wixstatic.com for hotlinking; site uses 13 working images. crochet.hk's role is promotional only — bookings, shop, and gift cards stay on themintboxstudio.com."
+}
