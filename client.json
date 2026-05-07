@@ -1,6 +1,6 @@
 {
   "name": "The Mint Box Studio",
-  "domains": ["crochet.hk"],
+  "domains": ["crochet.com.hk"],
   "default_locale": "en",
   "locales": ["en"],
   "focus": "Promotional site for Annie Wong — chunky-yarn crochet, knit installations, and small classes",
@@ -19,5 +19,5 @@
     "IFC Mall", "Laforet", "ISF Mall (Chongqing)",
     "I.T", "Joyce", "J Life Foundation", "Henderson Club"
   ],
-  "notes": "Imagery sourced from themintboxstudio.com (about page slideshow + showcase). Six showcase images were CDN-blocked at static.wixstatic.com for hotlinking; site uses 13 working images. crochet.hk's role is promotional only — bookings, shop, and gift cards stay on themintboxstudio.com."
+  "notes": "Imagery sourced from themintboxstudio.com (about page slideshow + showcase). Six showcase images were CDN-blocked at static.wixstatic.com for hotlinking; site uses 13 working images. crochet.com.hk's role is promotional only — bookings, shop, and gift cards stay on themintboxstudio.com."
 }

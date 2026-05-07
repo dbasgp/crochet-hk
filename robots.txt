@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://crochet.hk/sitemap.xml
+Sitemap: https://crochet.com.hk/sitemap.xml
